@@ -1,4 +1,5 @@
 # Cowin Vaccine Info
+#### Note: No longer works. 
 Using API to get session info and login using Selenium. Tasker (Android app for automating tasks) is required to fetch OTP.
 
 ## Steps:
